@@ -6,7 +6,7 @@ It generates VPN config, starts the VPN and adds it to autorun
 
 Tested on Ubuntu 22.04
 
-## Differences from official script ##
+## Differences from the Official Script ##
 
 The official install script is available [here](https://raw.githubusercontent.com/Jigsaw-Code/outline-server/master/src/server_manager/install_scripts/install_server.sh)
 
